@@ -1,0 +1,10 @@
+{
+  "name": "walletwise",
+  "version": "1.0.0",
+  "description": "智慧钱包应用",
+  "main": "index.ets",
+  "dependencies": {
+    "@ohos/hypium": "1.0.6"
+  },
+  "devDependencies": {}
+} 

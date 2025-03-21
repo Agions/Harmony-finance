@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "WalletWise智慧钱包"
+    },
+    {
+      "name": "tab_home",
+      "value": "首页"
+    },
+    {
+      "name": "tab_statistics",
+      "value": "统计"
+    },
+    {
+      "name": "tab_budget",
+      "value": "预算"
+    },
+    {
+      "name": "tab_category",
+      "value": "分类"
+    },
+    {
+      "name": "tab_mine",
+      "value": "我的"
+    }
+  ]
+} 

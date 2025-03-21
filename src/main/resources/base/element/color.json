@@ -1,0 +1,32 @@
+{
+  "color": [
+    {
+      "name": "primary_color",
+      "value": "#007DFF"
+    },
+    {
+      "name": "secondary_color",
+      "value": "#4D94FF"
+    },
+    {
+      "name": "background_color",
+      "value": "#F5F5F5"
+    },
+    {
+      "name": "text_primary_color",
+      "value": "#182431"
+    },
+    {
+      "name": "text_secondary_color",
+      "value": "#99182431"
+    },
+    {
+      "name": "income_color",
+      "value": "#4CAF50"
+    },
+    {
+      "name": "expense_color",
+      "value": "#FF5252"
+    }
+  ]
+} 
