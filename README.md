@@ -5,6 +5,7 @@
 [![版本](https://img.shields.io/badge/版本-1.0.0-brightgreen.svg)](https://github.com/Agions/HarmonyFinance/releases)
 [![ArkTS](https://img.shields.io/badge/ArkTS-TypeScript-blue)](https://developer.harmonyos.com/cn/docs/documentation/arkts-apis-overview-0000001518082977)
 [![Vue](https://img.shields.io/badge/关联项目-WalletWise-42b883)](https://github.com/Agions/WalletWise)
+[![开发者](https://img.shields.io/badge/开发者-Agions-orange.svg)](https://github.com/Agions)
 
 HarmonyFinance是一款基于鸿蒙HarmonyOS的智能财务管理应用，帮助用户轻松管理个人财务，追踪收支情况，分析消费习惯，设定预算目标。
 
